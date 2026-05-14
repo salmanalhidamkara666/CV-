@@ -1,0 +1,8 @@
+{
+  "name": "AI Japanese Resume Builder",
+  "description": "Generate recruiter-grade Japanese 履歴書 (Rirekisho) and 職務経歴書 (Shokumu Keirekisho) instantly with AI assistance. Includes professional Japanese photo crop, auto translation, self-PR optimization, and printable PDF/CSV/Excel support.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
